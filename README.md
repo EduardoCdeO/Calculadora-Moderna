@@ -1,2 +1,7 @@
-# Calculadora-Moderna
-Calculadora Moderna - Python
+# Calculadora Moderna
+[BR] Calculadora moderna feita em python utilizando o framework Flet. <br>
+[EN] Modern calculator made in Python using the Flet framework.
+
+# Requirements:
+flet
+decimal
