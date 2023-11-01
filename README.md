@@ -3,5 +3,5 @@
 [EN] Modern calculator made in Python using the Flet framework.
 
 # Requirements:
-flet
+flet <br>
 decimal
